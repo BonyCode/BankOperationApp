@@ -1,0 +1,5 @@
+com/example/service/H2ConnectionManager.class
+com/example/model/BankOperation.class
+com/example/collection/BankOperationsCollection.class
+com/example/Main.class
+com/example/service/BankOperationService.class
